@@ -1,3 +1,4 @@
 ## Useful Comands
 - minikube service list  
--  kubectl apply -f nginx-depl.yml
+- kubectl create ns my-namespace
+- kubectl apply -f nginx-depl.yml
